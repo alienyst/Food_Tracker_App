@@ -1,1 +1,2 @@
-# Food_Tracker_App
+# Food Tracker App
+Hitung kalori harian
